@@ -76,3 +76,5 @@ Customers were grouped into distinct segments based on spending behavior and dem
 Shazia Anwar (Shaz)  
 Aspiring AI and Machine Learning Developer
 
+GitHub: https://github.com/shazia-anwar
+
